@@ -96,7 +96,7 @@ public class Cronometro extends Thread {
             ex.printStackTrace();
         }
     }
-    //Esta mal
+    //Problema con el metodo retroceder
     public void retroceder() {
 
         try {
